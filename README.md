@@ -30,7 +30,7 @@ A minimal FastAPI server for testing user login, deck retrieval, and real-time c
 1. SSH into your EC2 instance:
 
    ```bash
-   ssh -i ~/.ssh/id_rsa ec2-user@<EC2_PUBLIC_IP>
+   ssh -i ~/.ssh/id_rsa ec2-user@35.90.238.16
    ```
 
 2. Clone the repository (or upload files):
